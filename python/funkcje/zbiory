@@ -1,0 +1,6 @@
+#to kolekcje unikalnych elementów
+zbior{1,2,3,4,5}
+zbior.add(7)
+zbior.remove(1)
+for element in zbior:
+	print element
